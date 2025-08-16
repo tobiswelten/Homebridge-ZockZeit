@@ -1,0 +1,15 @@
+{
+  "accessory": "ZockZeit",
+  "name": "Gaming Timer",
+  "elapsedTimeURL": "http://192.168.1.55/elapsed",
+  "targetTimeURL": "http://192.168.1.55/target", 
+  "setTargetTimeURL": "http://192.168.1.55/settarget?value=",
+  "turnOnURLs": ["http://192.168.1.55/on"],
+  "turnOffURLs": ["http://192.168.1.55/off"],
+  "resetURL": "http://192.168.1.55/reset",
+  "elapsedPollInterval": 5,
+  "targetPollInterval": 30,
+  "requestTimeout": 5000,
+  "minTemp": 0,
+  "maxTemp": 480
+}
