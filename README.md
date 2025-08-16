@@ -359,12 +359,6 @@ MIT License - siehe [LICENSE](LICENSE) Datei für Details.
 4. Push zum Branch (`git push origin feature/amazing-feature`) 
 5. Öffne eine Pull Request
 
-## Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/homebridge-zockzeit/issues)
-- 💬 **Diskussionen**: [GitHub Discussions](https://github.com/yourusername/homebridge-zockzeit/discussions)
-- 📧 **E-Mail**: your.email@example.com
-
 ## Changelog
 
 ### v1.1.0
